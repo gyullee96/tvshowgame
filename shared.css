@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+    border: 5px solid pink;
+    display: grid;
+    border-bottom: 1px solid black;
+    grid-template-columns: 171.36px 110px;
+}
+
+#sub {
+    font-size: 12px;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    margin: 10px;
+}
+
+section {
+    font-size: 16px;
+    text-align: center;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    margin: 20px 70px;
+}
+
+#notice {
+    font-size: 16px;
+    text-align: center;
+    margin: 30px 0px;
+}
